@@ -1,0 +1,9 @@
+[
+  {
+    "id": "admin-1",
+    "name": "Admin PetShop",
+    "email": "admin@gmail.com",
+    "password": "123456789",
+    "role": "admin"
+  }
+]
